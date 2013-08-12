@@ -29,9 +29,9 @@ DiceBag.prototype.renderDice = function() {
   }
 }
 
-/////////////
-// DICEBAG //
-/////////////
+/////////
+// DIE //
+/////////
 
 function Die(number_of_sides) {
   this.sides = number_of_sides;
